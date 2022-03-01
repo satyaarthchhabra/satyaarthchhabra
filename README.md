@@ -1,3 +1,4 @@
+[![Ashutosh's github activity graph](https://satyaarth-readme-graph.herokuapp.com/graph?username=satyaarthchhabra&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h1 align="center">Hi 👋, I'm Satyaarth Chhabra</h1>
 <h3 align="center">HUSTLING TO BUILD MY WAY</h3>
 
